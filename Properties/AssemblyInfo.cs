@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("evaporate")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Atmel Corporation")]
+[assembly: AssemblyCompany("Soundararajan Dhakshinamoorthy")]
 [assembly: AssemblyProduct("evaporate")]
-[assembly: AssemblyCopyright("Copyright © Atmel Corporation 2015")]
+[assembly: AssemblyCopyright("Copyright © Soundararajan Dhakshinamoorthy")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("64a28f72-d103-4760-9922-c47d29366d6c")]
+[assembly: Guid("64a28f72-d103-4760-9922-d47d29366d6c")]
 
 // Version information for an assembly consists of the following four values:
 //
