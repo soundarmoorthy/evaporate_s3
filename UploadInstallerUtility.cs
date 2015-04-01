@@ -11,7 +11,7 @@ namespace evaporate
 {
 
     /// <summary>
-    /// Uploads installer artifact to the AWS S3 "atmel-studio" 
+    /// Uploads installer artifact to the AWS S3
     /// </summary>
     public sealed class UploadInstallerUtility
     {
